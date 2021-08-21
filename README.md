@@ -14,20 +14,20 @@
 
 ## Advance Topics
 
- - Abstract class
- - Operator overloading
- - Friend function
- - Method overridding
- - Virtual functions
- - Templates
- - Intializers
- - Deep copy
- - Type conversion
- - Exception
- - Namespace
- - static keyword
- - auto keyword
- - extern keyword
+ - [x] Abstract class
+ - [x] Operator overloading
+ - [ ] Friend function
+ - [ ] Method overridding
+ - [ ] Virtual functions
+ - [ ] Templates
+ - [ ] Intializers
+ - [ ] Deep copy
+ - [ ] Type conversion
+ - [ ] Exception
+ - [ ] Namespace
+ - [ ] static keyword
+ - [ ] auto keyword
+ - [ ] extern keyword
 
 
 ## More projects : 
