@@ -9,7 +9,7 @@ Tip :
 */
 #include<iostream>
 #include <string>
-#include <stdexcept> // used to access defind exceptions
+#include <stdexcept> // used to access defined exceptions
 using namespace std;
 
 int main()
