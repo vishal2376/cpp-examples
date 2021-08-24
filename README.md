@@ -17,13 +17,13 @@
  - [x] Abstract class
  - [x] Operator overloading
  - [ ] Friend function
- - [ ] Method overridding
- - [ ] Virtual functions
- - [ ] Templates
+ - [x] Function overridding
+ - [x] Virtual functions
+ - [x] Templates
  - [ ] Intializers
  - [ ] Deep copy
  - [ ] Type conversion
- - [ ] Exception
+ - [x] Exception
  - [ ] Namespace
  - [ ] static keyword
  - [ ] auto keyword
