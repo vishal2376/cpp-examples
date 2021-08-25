@@ -23,7 +23,7 @@ int main()
 	try
 	{
 		if (b == 0)
-			throw 10; // int ,float ,string ,char etc can be used
+			throw 10; // int ,float ,string ,char etc values can be used
 		else
 			cout << "a/b : " << a / b << "\n";
 
