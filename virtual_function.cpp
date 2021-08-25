@@ -6,7 +6,7 @@ Virtual function : A function which can do function overriding during runtime th
 Note :
 	1)virtual function do late binding.
 	2)Late binding done in simple steps during runtime:
-		a)compiler make a pointer(v_ptr) inside private of class
+	    a)compiler make a pointer(v_ptr) inside private of class
 	    b)v_ptr store address of a vtable(store functions).
 	    c)Now vtable functions are compared and then binded with class.
 	3)virtual function should be declared in parent class
